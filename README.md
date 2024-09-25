@@ -1,4 +1,5 @@
 ✨ Case Background
+
 The primary objective of this report is to forecast the sales of individual product types within each ABC store for the period spanning from July 31, 2017, to August 15, 2017.
 
 ABC is a prominent South America-based grocery retailer currently relying on subjective forecasting techniques for sales predictions.
